@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+A Study of LGBTQ+ Wikipedia Articles Sentiment over Time
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+We detail a specific method that determines how, if at all, sentiment changes over time for a category of Wikipedia articles, which, in our study, are articles categorized by Wikipedia as LGBT articles. This method uses three different sentiment analyzers, one for each of the three different language editions of Wikipedia we are analyzing, to calculate the sentiment of a Wikipedia article, doing so for all edits in the article's revision history and for all articles in each language's LGBT category. This enables us to calculate a fixed effects regression for each language's sentiment scores, allowing us to determine whether or not time has a positive effect on the articles' sentiment scores, as well as to compare these trends across languages.
